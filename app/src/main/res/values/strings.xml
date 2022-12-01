@@ -1,0 +1,140 @@
+<resources>
+    <string name="app_name">excelGenerating</string>
+
+    <string-array name="days">
+        <item>Day</item>
+        <item>Monday</item>
+        <item>Tuesday</item>
+        <item>Wednesday</item>
+        <item>Thursday</item>
+        <item>Friday</item>
+        <item>Saturday</item>
+    </string-array>
+
+    <string-array name="Allyears">
+        <item>Select a Year</item>
+        <item>II Year</item>
+        <item>III Year</item>
+        <item>IV Year</item>
+    </string-array>
+
+    <string-array name="Periods">
+        <item>Period</item>
+        <item>8:05-9:00</item>
+        <item>9:00-9:55</item>
+        <item>10:15-11:10</item>
+        <item>11:10-12:05</item>
+        <item>12:05-01:00</item>
+        <item>02:00-02:55</item>
+        <item>02:55-03:50</item>
+        <item>03:50-4:40</item>
+        <item>04:40-05:30</item>
+    </string-array>
+
+    <string-array name="FourthYears">
+        <item>Section</item>
+        <item>IV - A</item>
+        <item>IV - B</item>
+        <item>IV - C</item>
+        <item>IV - D</item>
+        <item>IV - E</item>
+        <item>IV - F</item>
+    </string-array>
+
+    <string-array name="FourthYearSections">
+        <item>Section</item>
+        <item>A</item>
+        <item>B</item>
+        <item>C</item>
+        <item>D</item>
+        <item>E</item>
+        <item>F</item>
+    </string-array>
+
+    <string-array name="ThirdYears">
+        <item>Section</item>
+        <item>III - A</item>
+        <item>III - B</item>
+        <item>III - C</item>
+        <item>III - D</item>
+        <item>III - E</item>
+        <item>III - AI&amp;ML - A</item>
+        <item>III - CS - A</item>
+        <item>III - CSBS - A</item>
+    </string-array>
+
+    <string-array name="ThirdYearSections">
+        <item>Section</item>
+        <item>A</item>
+        <item>B</item>
+        <item>C</item>
+        <item>D</item>
+        <item>E</item>
+        <item>AI&amp;ML - A</item>
+        <item>CSBS - A</item>
+        <item>CS - A</item>
+    </string-array>
+
+    <string-array name="SecondYears">
+        <item>Section</item>
+        <item>II - A</item>
+        <item>II - B</item>
+        <item>II - C</item>
+        <item>II - D</item>
+        <item>II - E</item>
+        <item>II - F</item>
+        <item>II - G</item>
+        <item>II - H</item>
+        <item>II - AI&amp;ML - A</item>
+        <item>II - AI&amp;ML - B</item>
+        <item>II - CSBS - A</item>
+        <item>II - CS - A</item>
+    </string-array>
+
+    <string-array name="SecondYearSections">
+        <item>Section</item>
+        <item>A</item>
+        <item>B</item>
+        <item>C</item>
+        <item>D</item>
+        <item>E</item>
+        <item>F</item>
+        <item>G</item>
+        <item>H</item>
+        <item>AI&amp;ML - A</item>
+        <item>AI&amp;ML - B</item>
+        <item>CSBS - A</item>
+        <item>CS - A</item>
+    </string-array>
+
+    <string-array name="Sections">
+        <item>Section</item>
+        <item>III - A</item>
+        <item>III - B</item>
+        <item>III - C</item>
+        <item>III - D</item>
+        <item>III - E</item>
+        <item>III - AI&amp;ML - A</item>
+        <item>III - CS - A</item>
+        <item>III - CSBS - A</item>
+    </string-array>
+
+
+    <string-array name="secondyears">
+        <item>Section</item>
+        <item>II - A</item>
+        <item>II - B</item>
+        <item>II - C</item>
+        <item>II - D</item>
+        <item>II - E</item>
+        <item>II - F</item>
+        <item>II - G</item>
+        <item>II - H</item>
+        <item>II - AI&amp;ML - A</item>
+        <item>II - AI&amp;ML - B</item>
+        <item>II - CS - A</item>
+        <item>II - CSBS - A</item>
+    </string-array>
+
+
+</resources>
